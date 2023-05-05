@@ -6,10 +6,15 @@ Pop Culture Datasets curated for practice and learning across different data sci
 ⏺️ Actively Maintained (~last 6 months)
 🔢 Hosted on Kaggle
 
+
 ## Data Sets
 
 ### TV Shows 
 - [Naked and Afraid](https://www.kaggle.com/datasets/tython3/naked-and-afraid-dashboards) ⏺️ 🔢
+
+## Music 
+- [Skate Music](https://github.com/the-pudding/data/tree/master/skate-music)
+
 
 
 
