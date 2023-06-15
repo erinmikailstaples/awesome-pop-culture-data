@@ -19,7 +19,7 @@ Pop Culture Datasets curated for practice and learning across different data sci
 ### Museums / History 
 - [Smithsonian Open Access Metadata Repository — Smithsonian](https://github.com/Smithsonian/OpenAccess) 🛜⏺️🖼️💬
 - [Biodiverrsity Heritage Library - Smithsonian](https://about.biodiversitylibrary.org/tools-and-services/developer-and-data-tools/#Data%20Exports) 🛜⏺️🖼️💬
-- [New York Public Library Domain - NYPL] (https://github.com/NYPL-publicdomain/data-and-utilities) 🛜⏺️🖼️💬
+- [New York Public Library Domain - NYPL](https://github.com/NYPL-publicdomain/data-and-utilities) 🛜⏺️🖼️💬
 
 ### Music 
 - [Skate Music - The Pudding](https://github.com/the-pudding/data/tree/master/skate-music) 💬
