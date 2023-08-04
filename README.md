@@ -19,6 +19,7 @@ Pop Culture Datasets curated for practice and learning across different data sci
 ### Games and Gaming
 — [Pokemon Gen 1 through 9](https://www.kaggle.com/datasets/katherinehudak/pokemon-gen-1-to-gen-9)🔢⏺️💬
 - [Board Game Geek](https://boardgamegeek.com/wiki/page/BGG_XML_API2)🛜⏺️💬
+- [Animal Crossing](https://www.kaggle.com/datasets/whenamancodes/new-horizons-catalog-animal-horizon)🔢⏺️💬
 
 ### Movies
 — [Images from Star Wars Movies](https://www.kaggle.com/datasets/michau96/images-from-star-wars-movies)🔢🖼️
